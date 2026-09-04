@@ -1,0 +1,18 @@
+********************
+Name: Ashuka Acharya
+Roll No: 8
+Address: Naya Thimi
+Email: ashuka@gmail.com
+Phone No: 9765833692
+Gender: Female
+Faculty: Bsc. CSIT
+********************
+********************
+Name: ram
+Roll No: 122
+Address: djcdsjc
+Email: ashuka@gmail.com
+Phone No: 9876543210
+Gender: Male
+Faculty: BIT
+********************

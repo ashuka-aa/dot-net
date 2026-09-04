@@ -1,0 +1,17 @@
+C:\Users\Dell\OneDrive\Desktop\.net\FormAsignment\FormAsignment\bin\Debug\net10.0-windows\FormAsignment.exe
+C:\Users\Dell\OneDrive\Desktop\.net\FormAsignment\FormAsignment\bin\Debug\net10.0-windows\FormAsignment.deps.json
+C:\Users\Dell\OneDrive\Desktop\.net\FormAsignment\FormAsignment\bin\Debug\net10.0-windows\FormAsignment.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\.net\FormAsignment\FormAsignment\bin\Debug\net10.0-windows\FormAsignment.dll
+C:\Users\Dell\OneDrive\Desktop\.net\FormAsignment\FormAsignment\bin\Debug\net10.0-windows\FormAsignment.pdb
+C:\Users\Dell\OneDrive\Desktop\.net\FormAsignment\FormAsignment\obj\Debug\net10.0-windows\FormAsignment.Form1.resources
+C:\Users\Dell\OneDrive\Desktop\.net\FormAsignment\FormAsignment\obj\Debug\net10.0-windows\FormAsignment.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Desktop\.net\FormAsignment\FormAsignment\obj\Debug\net10.0-windows\FormAsignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\.net\FormAsignment\FormAsignment\obj\Debug\net10.0-windows\FormAsignment.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\.net\FormAsignment\FormAsignment\obj\Debug\net10.0-windows\FormAsignment.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\.net\FormAsignment\FormAsignment\obj\Debug\net10.0-windows\FormAsignment.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\.net\FormAsignment\FormAsignment\obj\Debug\net10.0-windows\FormAsignment.dll
+C:\Users\Dell\OneDrive\Desktop\.net\FormAsignment\FormAsignment\obj\Debug\net10.0-windows\refint\FormAsignment.dll
+C:\Users\Dell\OneDrive\Desktop\.net\FormAsignment\FormAsignment\obj\Debug\net10.0-windows\FormAsignment.pdb
+C:\Users\Dell\OneDrive\Desktop\.net\FormAsignment\FormAsignment\obj\Debug\net10.0-windows\FormAsignment.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\.net\FormAsignment\FormAsignment\obj\Debug\net10.0-windows\ref\FormAsignment.dll
+C:\Users\Dell\OneDrive\Desktop\.net\FormAsignment\FormAsignment\obj\Debug\net10.0-windows\FormAsignment.sourcelink.json

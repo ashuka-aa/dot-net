@@ -9,10 +9,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{74042DE1-A54E-4BFF-4AA4-0668808F09E7}|FormAsignment\\FormAsignment.csproj|c:\\users\\dell\\onedrive\\desktop\\.net\\formasignment\\formasignment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{74042DE1-A54E-4BFF-4AA4-0668808F09E7}|FormAsignment\\FormAsignment.csproj|solutionrelative:formasignment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD17DAD4-189B-496E-A49A-4EA2EA84A882}|FormAsignment\\FormAsignment.csproj|C:\\Users\\Dell\\OneDrive\\Desktop\\.net\\FormAsignment\\formasignment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AD17DAD4-189B-496E-A49A-4EA2EA84A882}|FormAsignment\\FormAsignment.csproj|solutionrelative:formasignment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,19 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\.net\\FormAsignment\\FormAsignment\\Form1.cs",
-              "RelativeDocumentMoniker": "FormAsignment\\Form1.cs",
-              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\.net\\FormAsignment\\FormAsignment\\Form1.cs [Design]",
-              "RelativeToolTip": "FormAsignment\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T07:40:58.536Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -43,7 +28,7 @@
               "RelativeDocumentMoniker": "FormAsignment\\Form1.cs",
               "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\.net\\FormAsignment\\FormAsignment\\Form1.cs",
               "RelativeToolTip": "FormAsignment\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-02T04:49:08.598Z",
               "EditorCaption": ""
@@ -57,7 +42,7 @@
               "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\.net\\FormAsignment\\FormAsignment\\Form1.cs [Design]",
               "RelativeToolTip": "FormAsignment\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T01:43:10.689Z",
+              "WhenOpened": "2026-09-18T06:47:06.168Z",
               "EditorCaption": " [Design]"
             }
           ]

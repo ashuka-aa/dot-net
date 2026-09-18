@@ -34,15 +34,9 @@ namespace FormAsignment
 
                 using (StreamWriter sw = new StreamWriter(@"C:\\Users\\Dell\\OneDrive\\Desktop\\.net\Details.txt", true))
                 {
-                    sw.WriteLine(new string('*', 20));
-                    sw.WriteLine($"Name: {FullName_Box.Text}");
-                    sw.WriteLine($"Roll No: {Roll_Box.Text}");
-                    sw.WriteLine($"Address: {Address_Box.Text}");
-                    sw.WriteLine($"Email: {Email_Box.Text}");
-                    sw.WriteLine($"Phone No: {Phone_Box.Text}");
-                    sw.WriteLine($"Gender: {gender}");
-                    sw.WriteLine($"Faculty: {Faculty_Box.Text}");
-                    sw.WriteLine(new string('*', 20));
+                    sw.WriteLine($"{FullName_Box.Text},{Roll_Box.Text}," +
+                        $"{Address_Box.Text},{Email_Box.Text},{Phone_Box.Text}," +
+                        $"{gender},{Faculty_Box.Text}");
                 }
 
                 FullName_Box.Clear();
